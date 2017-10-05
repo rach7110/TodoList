@@ -1,0 +1,20 @@
+READ.me
+//BACKEND
+X   IT SHOULD STORE TODOS AS AN ARRAY
+X   IT SHOLD HAVE A FUNCTION TO DISPLAY TODOS.
+X   IT SHOULD HAVE A FUNCTION TO ADD TODOS.
+X   IT SHOULD HAVE A FUNCTION TO CHANGE TODOS.
+X   IT SHOULD HAVE A FUNCTION TO DELETE TODOS
+X   IT SHOLD HAVE A FUNCTION TO TOGGLE A TODO
+        1. If todo is not complete, change to complete
+        2. If todo is complete, change to not complete
+
+X   IT SHOULD HAVE A FUNCTION TO TOGGLE ALL TODOS:
+        1. If all todos are complete, change them to not complete
+        2. Otherwise (if some or none are complete), change all to complete
+
+
+Frontend
+X   There should be a "Display Todos" and "Toggle All" button
+    Clicking the "Display Todos" button should run  todoList.displayTodos()
+    Clicking the "Toggle All" button should run  todoList.toggleAll()
